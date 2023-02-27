@@ -1,4 +1,2 @@
 *.xml
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
 notebooks/house_votes/*
